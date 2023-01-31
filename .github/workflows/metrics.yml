@@ -53,7 +53,7 @@ jobs:
 
           plugin_repositories: yes
           plugin_repositories_forks: repositories_forks
-          plugin_repositories_featured: dziwuj/StripPoker, dziwuj/poly-game
+          plugin_repositories_featured:  dziwuj/react-double-range-slider, dziwuj/StripPoker, dziwuj/Countries-export-import, dziwuj/poly-game
           # plugin_repositories_affiliations: owner
           # plugin_repositories_batch: 100
           
